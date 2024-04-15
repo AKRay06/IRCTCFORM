@@ -4,7 +4,7 @@
 }
 .main_container{
     height: 100vh;
-    background-image: url(images/wp12183303-vande-bharat-wallpapers.jpg);
+    background-image: url("images/wp12183303-vande-bharat-wallpapers.jpg");
     background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(0, 0, 115);
